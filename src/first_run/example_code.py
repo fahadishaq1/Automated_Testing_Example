@@ -5,3 +5,7 @@ def capitalize_name(name: str) -> str:
 
 def uppercase_name(name: str) -> str:
     return name.upper()
+
+
+def foo(number: int) -> bool:
+    return number > 0
